@@ -19,7 +19,7 @@ export default function Home() {
         src={bg}
         priority
         sizes="100vw"
-        alt="Next.js Portfolio website's about page background image"
+        alt="Dungthinh's about page background image"
         className="-z-50 fixed top-0 left-0 w-full h-full object-cover object-center opacity-50"
       />
 
@@ -32,10 +32,10 @@ export default function Home() {
       <div className="relative w-full h-screen flex flex-col items-center justify-center">
         <div className="absolute flex flex-col items-center text-center top-1/2 sm:top-[60%] left-1/2 -translate-y-1/2 -translate-x-1/2">
           <h1 className="font-bold  text-6xl xs:text-7xl sm:text-8xl  lg:text-9xl text-accent">
-            CodeBucks
+            Dungthinh
           </h1>
           <p className="font-light text-foreground text-lg">
-            Meet the wizard behind this portfolio
+            Meet the wizard behind your photos
           </p>
         </div>
       </div>
