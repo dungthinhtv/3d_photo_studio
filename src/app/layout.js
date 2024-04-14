@@ -11,13 +11,10 @@ const inter = Inter({
 
 export const metadata = {
   title: {
-    template:
-      "Next.js Portfolio Created with Three.js and Tailwind CSS | %s | Dungthinh",
-    default:
-      "Next.js Portfolio Created with Three.js and Tailwind CSS by Dungthinh",
+    template: "Đặng Quốc Dũng | %s | Dungthinh.com",
+    default: "Đặng Quốc Dũng - Dungthinh.com",
   },
-  description:
-    "A unique creative portfolio designed by Dungthinh with cutting-edge technologies like Next.js, Tailwind CSS, Three.js, and Framer Motion. Experience the art of modern web development firsthand. Checkout Dungthinh on youtube.",
+  description: "Đặng Quốc Dũng - Dungthinh.com",
 };
 
 export default function RootLayout({ children }) {
