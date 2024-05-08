@@ -25,12 +25,20 @@ export const projectsData = [
     demoLink: "https://dungthinh.ddns.net",
   },
   {
-    id: 1,
+    id: 2,
     name: "3D Art Gallery",
     description:
       "Wander through the virtual gallery halls, and engage with a variety of masterpieces, learning about their history and significance.",
     date: "2024-02-01",
     demoLink: "http://dungthinh.ddns.net:8083",
+  },
+  {
+    id: 3,
+    name: "Graphics Creator",
+    description:
+      "SAAS Platform to Create Graphics, Images, Social Media Posts, Ads, Banners, & Stories",
+    date: "2024-05-01",
+    demoLink: "http://dungthinh.ddns.net:81",
   },
 ];
 
