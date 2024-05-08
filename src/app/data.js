@@ -20,9 +20,17 @@ export const projectsData = [
   {
     id: 1,
     name: "Dungthinh CRM",
-    description: "Hệ thống Quản lý quan hệ khách hàng",
+    description: "Dungthinh Customer Relationship Management System.",
     date: "2022-08-15",
     demoLink: "https://dungthinh.ddns.net",
+  },
+  {
+    id: 1,
+    name: "3D Art Gallery",
+    description:
+      "Wander through the virtual gallery halls, and engage with a variety of masterpieces, learning about their history and significance.",
+    date: "2024-02-01",
+    demoLink: "http://dungthinh.ddns.net:8083",
   },
 ];
 
