@@ -19,10 +19,40 @@ Websites:
 export const projectsData = [
   {
     id: 1,
-    name: "Dungthinh CRM",
-    description: "Dungthinh Customer Relationship Management System.",
+    name: "Dungthinh LMS",
+    description: "Dungthinh Learning Management System.",
     date: "2022-08-15",
     demoLink: "https://dungthinh.ddns.net",
+  },
+  {
+    id: 2,
+    name: "Dungthinh Graphics Creator",
+    description:
+      "SAAS Platform to Create Graphics, Images, Social Media Posts, Ads, Banners, & Stories",
+    date: "2024-05-01",
+    demoLink: "http://dungthinh.ddns.net:81",
+  },
+  {
+    id: 3,
+    name: "DungthinhWikiArt",
+    description: "Painting Market",
+    date: "2024-05-01",
+    demoLink: "http://dungthinh.ddns.net:82",
+  },
+  {
+    id: 3,
+    name: "Dungthinh Task Pro",
+    description:
+      "SAAS Platform to Create Graphics, Images, Social Media Posts, Ads, Banners, & Stories",
+    date: "2024-05-01",
+    demoLink: "http://dungthinh.ddns.net:83",
+  },
+  {
+    id: 3,
+    name: "Dungthinh Marketplace Script",
+    description: "The Best Marketplace Script for Online Marketplace Business",
+    date: "2024-05-01",
+    demoLink: "http://dungthinh.ddns.net:84",
   },
   {
     id: 2,
@@ -31,14 +61,6 @@ export const projectsData = [
       "Wander through the virtual gallery halls, and engage with a variety of masterpieces, learning about their history and significance.",
     date: "2024-02-01",
     demoLink: "http://dungthinh.ddns.net:8083",
-  },
-  {
-    id: 3,
-    name: "Graphics Creator",
-    description:
-      "SAAS Platform to Create Graphics, Images, Social Media Posts, Ads, Banners, & Stories",
-    date: "2024-05-01",
-    demoLink: "http://dungthinh.ddns.net:81",
   },
 ];
 
