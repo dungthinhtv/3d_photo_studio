@@ -1,13 +1,16 @@
 import {
-  Github,
   Home,
-  Linkedin,
   NotebookText,
   Palette,
   Phone,
-  Twitter,
   User,
-  Youtube,
+  GraduationCap,
+  Lightbulb,
+  ListTodo,
+  ImageDown,
+  Container,
+  PencilRuler,
+  GalleryThumbnails,
 } from "lucide-react";
 import Link from "next/link";
 import React from "react";
@@ -26,13 +29,21 @@ const getIcon = (icon) => {
     case "contact":
       return <Phone className="w-full h-auto" strokeWidth={1.5} />;
     case "github":
-      return <Github className="w-full h-auto" strokeWidth={1.5} />;
-    case "linkedin":
-      return <Linkedin className="w-full h-auto" strokeWidth={1.5} />;
-    case "twitter":
-      return <Twitter className="w-full h-auto" strokeWidth={1.5} />;
-    case "youtube":
-      return <Youtube className="w-full h-auto" strokeWidth={1.5} />;
+      return <Palette className="w-full h-auto" strokeWidth={1.5} />;
+    case "lms":
+      return <GraduationCap className="w-full h-auto" strokeWidth={1.5} />;
+    case "lightbulb ":
+      return <Lightbulb className="w-full h-auto" strokeWidth={1.5} />;
+    case "palette":
+      return <ImageDown className="w-full h-auto" strokeWidth={1.5} />;
+    case "listtodo":
+      return <ListTodo className="w-full h-auto" strokeWidth={1.5} />;
+    case "container":
+      return <Container className="w-full h-auto" strokeWidth={1.5} />;
+    case "pencil":
+      return <PencilRuler className="w-full h-auto" strokeWidth={1.5} />;
+    case "gallery":
+      return <GalleryThumbnails className="w-full h-auto" strokeWidth={1.5} />;
     case "resume":
       return <NotebookText className="w-full h-auto" strokeWidth={1.5} />;
 
