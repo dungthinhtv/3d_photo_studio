@@ -19,14 +19,14 @@ Websites:
 export const projectsData = [
   {
     id: 1,
-    name: "Dungthinh LMS",
+    name: "DT LMS",
     description: "Dungthinh Learning Management System.",
     date: "2022-08-15",
     demoLink: "https://dungthinh.ddns.net",
   },
   {
     id: 2,
-    name: "Dungthinh Graphics Creator",
+    name: "DT Graphics Creator",
     description:
       "SAAS Platform to Create Graphics, Images, Social Media Posts, Ads, Banners, & Stories",
     date: "2024-05-01",
@@ -34,29 +34,36 @@ export const projectsData = [
   },
   {
     id: 3,
-    name: "DungthinhWikiArt",
+    name: "DT WikiArt",
     description: "Painting Market",
     date: "2024-05-01",
     demoLink: "http://dungthinh.ddns.net:82",
   },
   {
-    id: 3,
-    name: "Dungthinh Task Pro",
+    id: 4,
+    name: "DT Task Pro",
     description:
       "SAAS Platform to Create Graphics, Images, Social Media Posts, Ads, Banners, & Stories",
     date: "2024-05-01",
     demoLink: "http://dungthinh.ddns.net:83",
   },
   {
-    id: 3,
-    name: "Dungthinh Marketplace Script",
+    id: 5,
+    name: "DT Marketplace Script",
     description: "The Best Marketplace Script for Online Marketplace Business",
     date: "2024-05-01",
     demoLink: "http://dungthinh.ddns.net:84",
   },
   {
-    id: 2,
-    name: "3D Art Gallery",
+    id: 6,
+    name: "DT Content Creators ",
+    description: "Earn profits with your content",
+    date: "2024-05-01",
+    demoLink: "http://dungthinh.ddns.net:85",
+  },
+  {
+    id: 7,
+    name: "DT 3D Art Gallery",
     description:
       "Wander through the virtual gallery halls, and engage with a variety of masterpieces, learning about their history and significance.",
     date: "2024-02-01",
