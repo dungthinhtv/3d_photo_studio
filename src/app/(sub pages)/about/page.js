@@ -35,7 +35,7 @@ export default function Home() {
             DUNGTHINH
           </h1>
           <p className="font-light text-foreground text-lg">
-            Meet the wizard behind your photos
+            Meet the wizard behind my code
           </p>
         </div>
       </div>
